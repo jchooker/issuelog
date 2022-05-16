@@ -1,0 +1,217 @@
+﻿++Solution 'IssueLog' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:IssueLog.sln
+++IssueLog
+i:{00000000-0000-0000-0000-000000000000}:IssueLog
+++Connected Services 
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:>195
+++Dependencies
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:>194
+++Analyzers
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:analyzers
+++Microsoft.AspNetCore.Analyzers
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Frameworks
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:frameworks
+++Properties
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\properties\
+++launchSettings.json
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\properties\launchsettings.json
+++wwwroot
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\
+++css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\css\
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\js\
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\
+++favicon.ico
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\favicon.ico
+++Pages
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\
+++Shared
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\shared\
+++_Layout.cshtml
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\_viewstart.cshtml
+++Error.cshtml
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\error.cshtml
+++Error.cshtml.cs
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\error.cshtml.cs
+++Index.cshtml
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\index.cshtml
+++Index.cshtml.cs
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\index.cshtml.cs
+++Privacy.cshtml
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\privacy.cshtml
+++Privacy.cshtml.cs
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\privacy.cshtml.cs
+++appsettings.json
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\appsettings.json
+++appsettings.Development.json
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\appsettings.development.json
+++Program.cs
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\program.cs
+++No service dependencies discovered
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:>196
+++Microsoft.AspNetCore.App
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\microsoft.netcore.app
+++site.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\css\site.css
+++site.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\js\site.js
+++bootstrap
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\
+++jquery
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery\
+++jquery-validation
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\pages\shared\_layout.cshtml.css
+++dist
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery\dist\
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery\license.txt
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{6ff0cc48-7004-431a-afce-6e0efcad6960}:c:\users\jcole\onedrive\desktop\prof dev\pluralsight\c#\.net\building-web-applications-cleeren-1\web-app\issuelog\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
